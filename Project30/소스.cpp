@@ -4,7 +4,7 @@
 int main()
 {
 	int x, y, dump;
-	int c;
+	int c; 
 
 
 	printf("교환할 두 정수를 입력하세요. >>");
